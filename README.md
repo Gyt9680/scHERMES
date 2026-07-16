@@ -1,16 +1,5 @@
 # scHERMES
 The source code and input data of scHERMES
-
-## Requirement
-- Pytorch --- 1.12.1
-- Python --- 3.8.16
-- Numpy --- 1.24.3
-- Scipy --- 1.10.1
-- Sklearn --- 1.2.2
-- Munkres --- 1.1.4
-- tqdm --- 4.65.0
-- Matplotlib --- 3.7.1
-
 ## Usage
 #### Clone this repo.
 ```bash
